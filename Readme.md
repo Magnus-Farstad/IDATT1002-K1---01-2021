@@ -2,7 +2,7 @@
 
 <img src="src/main/resources/Images/Logo_Full_res.png" alt="drawing" width="200"/>
  
-To-Do is an application that helps you keep track of all your tasks. Programmed in Java and compatible with MacOs, Linux, and Windows!
+To-Do is an application that helps you keep track of all your tasks. Programmed in Java and compatible with MacOs, Linux, and Windows! For full project including, issues, board, wiki etc. check out the project on GitLab: https://gitlab.stud.idi.ntnu.no/eivisha/to-do-list
  
 
 # Table of content
